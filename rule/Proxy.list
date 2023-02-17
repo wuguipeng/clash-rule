@@ -38,14 +38,6 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 
-# YouTubeMusic
-USER-AGENT,*YouTubeMusic*
-USER-AGENT,*com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
-USER-AGENT,com.google.ios.youtubemusic*
-DOMAIN,music.youtube.com
-
-
 # Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,fast.com
@@ -81,3 +73,10 @@ IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
 IP-CIDR,207.45.72.0/22,no-resolve
 IP-CIDR,208.75.76.0/22,no-resolve
+
+# YouTubeMusic
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
+DOMAIN,music.youtube.com
