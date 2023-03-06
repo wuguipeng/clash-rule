@@ -107,3 +107,7 @@ DOMAIN-SUFFIX,redditstatic.com
 
 # v2ex
 DOMAIN-SUFFIX,v2ex.com
+
+# openai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
