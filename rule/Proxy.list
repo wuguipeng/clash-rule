@@ -1,9 +1,5 @@
 # v2ex
 DOMAIN-SUFFIX,v2ex.com
 
-# openai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,ai.com
-
 # imgur
 DOMAIN-SUFFIX,imgur.com
