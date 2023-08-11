@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
 DOMAIN-SUFFIX,cccat.io
-DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,gameloft.com
@@ -17,7 +16,6 @@ DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,teddysun.com
@@ -3785,7 +3783,6 @@ DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,open.com.hk
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,opendn.xyz
@@ -6149,8 +6146,8 @@ IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 
 # Oracle Cloud
-DOMAIN,cloud.oracle.com
-DOMAIN-SUFFIX,oraclecloud.com
+# DOMAIN,cloud.oracle.com
+# DOMAIN-SUFFIX,oraclecloud.com
 
 # Porn
 DOMAIN-KEYWORD,porn
