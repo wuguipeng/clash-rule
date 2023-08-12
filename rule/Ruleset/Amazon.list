@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,seattlespheres.com
+DOMAIN-SUFFIX,aws.a2z.com
+DOMAIN-SUFFIX,console.awsstatic.com
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
