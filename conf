@@ -1,0 +1,59 @@
+[general]
+excluded_routes=192.168.0.0/16, 172.16.0.0/12, 100.64.0.0/10, 10.0.0.0/8
+geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://github.com/KOP-XIAO/QuantumultX/raw/master/Scripts/IP_API.js
+network_check_url=http://www.baidu.com/
+server_check_url=http://www.gstatic.com/generate_204
+
+[dns]
+server=119.29.29.29
+server=223.5.5.5
+server=1.0.0.1
+server=8.8.8.8
+
+[policy]
+static=🚀 手动选择, DIRECT, aws-新加坡, aws-新加坡-nnr, arm, arm-nnr-x2, arm-nnr-x10, 韩国首尔|ueZg.love@xray.com, aws-lightsail
+static=🇨🇳 国内直连, DIRECT
+static=👋 国外代理, 🚀 手动选择, DIRECT
+static=🤖 OpenAi, DIRECT, aws-新加坡, aws-新加坡-nnr, arm, arm-nnr-x2, arm-nnr-x10, 韩国首尔|ueZg.love@xray.com, aws-lightsail
+static=🐟 漏网之鱼, 🚀 手动选择, DIRECT, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png
+
+[server_remote]
+
+[filter_remote]
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvR29vZ2xlLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvWW91VHViZS5saXN0&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvR2l0aHViLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvWW91VHViZU11c2ljLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvTmV0ZmxpeC5saXN0&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvUmVkZGl0Lmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvRGlzY29yZC5saXN0&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvU3BvdGlmeS5saXN0&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvRGV2ZWxvcGVyLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvR29vZ2xlRWFydGgubGlzdA&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvSW5zdGFncmFtLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvVHdpdHRlci5saXN0&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvV2lraXBlZGlhLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvQW1hem9uLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL09uZURyaXZlLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1RlbGVncmFtLmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1Byb3h5Lmxpc3Q&group=8J-RiyDlm73lpJbku6PnkIY, tag=👋 国外代理, enabled=true
+http://oracle.wocc.cf/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d1Z3VpcGVuZy9jbGFzaC1ydWxlL21hc3Rlci9ydWxlL1J1bGVzZXQvT3BlbkFpLmxpc3Q&group=8J-kliBPcGVuQWk, tag=🤖 OpenAi, enabled=true
+
+[rewrite_remote]
+
+[server_local]
+shadowsocks = aws.wocc.cf:24417, method=aes-256-gcm, password=EpWn4yTJgV, fast-open=false, udp-relay=true, tag=aws-新加坡
+shadowsocks = 58.242.130.102:27905, method=aes-256-gcm, password=EpWn4yTJgV, fast-open=false, udp-relay=true, tag=aws-新加坡-nnr
+shadowsocks = arm.wocc.cf:44224, method=aes-256-gcm, password=r3nLNntISh, fast-open=false, udp-relay=true, tag=arm
+shadowsocks = 58.242.130.102:37348, method=aes-256-gcm, password=r3nLNntISh, fast-open=false, udp-relay=true, tag=arm-nnr-x2
+shadowsocks = 183.240.117.2:26955, method=aes-256-gcm, password=r3nLNntISh, fast-open=false, udp-relay=true, tag=arm-nnr-x10
+vmess = seoul.wocc.cf:443, method=chacha20-ietf-poly1305, password=b0dee35c-811a-402b-9703-cf321fb32ad8, aead=true, tls13=false, obfs=wss, obfs-host=seoul.wocc.cf, obfs-uri=/abcd, fast-open=false, udp-relay=true, tag=韩国首尔|ueZg.love@xray.com
+vmess = aws-lightsail.wocc.cf:1000, method=chacha20-ietf-poly1305, password=36252e3a-f61b-4cbb-8257-9dfec99aa4ab, aead=true, tls13=false, obfs=over-tls, obfs-host=aws-lightsail.wocc.cf, fast-open=false, udp-relay=true, tag=aws-lightsail
+
+[filter_local]
+FINAL,🐟 漏网之鱼
+
+[rewrite_local]
+
+[mitm]
+
