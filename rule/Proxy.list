@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,imgur.com
 
 # nnr
 DOMAIN-SUFFIX,nnr.moe
+
+# brew
+DOMAIN-SUFFIX,brew.sh
