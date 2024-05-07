@@ -41,3 +41,12 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
+
+
+# annas
+DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,momot.rs
+
+
+# z-lib
+DOMAIN-SUFFIX,z-lib.io
