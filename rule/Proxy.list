@@ -50,3 +50,6 @@ DOMAIN-SUFFIX,momot.rs
 
 # z-lib
 DOMAIN-SUFFIX,z-lib.io
+
+# OracleStorage
+DOMAIN-SUFFIX,objectstorage.ap-seoul-1.oci.customer-oci.com
