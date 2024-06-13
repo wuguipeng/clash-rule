@@ -56,3 +56,6 @@ DOMAIN-SUFFIX,objectstorage.ap-seoul-1.oci.customer-oci.com
 
 # unsplash
 DOMAIN-SUFFIX,unsplash.com
+
+# unsplash
+DOMAIN-SUFFIX,godaddy.com
