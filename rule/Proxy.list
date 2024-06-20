@@ -62,3 +62,10 @@ DOMAIN-SUFFIX,godaddy.com
 
 # btdig
 DOMAIN-SUFFIX,btdig.com
+
+# bt rss
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,mikanime.me
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,acgnx.se
