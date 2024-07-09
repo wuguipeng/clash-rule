@@ -49,10 +49,8 @@ DOMAIN-SUFFIX,momot.rs
 
 
 # z-lib
-DOMAIN-SUFFIX,z-lib.io
+DOMAIN-SUFFIX,z-lib.gs
 
-# OracleStorage
-DOMAIN-SUFFIX,objectstorage.ap-seoul-1.oci.customer-oci.com
 
 # unsplash
 DOMAIN-SUFFIX,unsplash.com
