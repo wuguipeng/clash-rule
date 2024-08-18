@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,nnr.moe
 # brew
 DOMAIN-SUFFIX,brew.sh
 
-# 原型
-DOMAIN-SUFFIX,axshare.com
-
 
 DOMAIN-SUFFIX,linkedin.com
 
@@ -74,6 +71,5 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,nextui.org
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,axshare.com
-DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,freenom.com
