@@ -79,3 +79,24 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,registry.npmjs.org
 DOMAIN-SUFFIX,pypi.org
+
+
+DOMAIN-SUFFIX,genius.com
+DOMAIN-SUFFIX,limetorrents.lol
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,ubuntu.com
+
+# homepage
+DOMAIN-SUFFIX,gethomepage.dev
+
+# vercel
+DOMAIN-SUFFIX,vercel.app
+
+# torrent
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,nyaa.land
+DOMAIN-SUFFIX,qbittorrent.org, proxy
+DOMAIN-SUFFIX,1337x.to
+
+# notion
+DOMAIN-SUFFIX,notion.so
